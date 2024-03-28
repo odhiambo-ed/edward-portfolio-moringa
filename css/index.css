@@ -21,3 +21,16 @@ body {
     background-color: var(--bg-color);
     color: var(--primary-color);
 }
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+a:hover {
+    color: var(--secondary-color);
+}
