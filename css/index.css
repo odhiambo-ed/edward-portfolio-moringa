@@ -43,6 +43,7 @@ nav {
  padding: 1rem 3rem;
  box-shadow: 1px 1px #888888;
  position: sticky;
+ z-index: 1;
 }
 
 nav ul {
