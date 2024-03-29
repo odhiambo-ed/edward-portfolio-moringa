@@ -86,9 +86,8 @@ nav ul {
     padding: 5rem 2rem;
 }
 
-.left h3 {
+.left h1 {
     color: var(--secondary-color);
-    font-size: var(--small-font-size);
 
 }
 
