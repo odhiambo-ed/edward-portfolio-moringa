@@ -8,6 +8,7 @@
     --bg-color: #1a1a1a;
     --primary-color: #ffffff;
     --secondary-color: #d3e97a;
+    --transition: 0.4s;
 }
 
 * {
@@ -33,4 +34,18 @@ a {
 
 a:hover {
     color: var(--secondary-color);
+}
+
+nav {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ padding: 1rem 3rem;
+ box-shadow: 1px 1px #888888;
+ position: sticky;
+}
+
+nav ul {
+    display: flex;
+    gap: .5rem;
 }
