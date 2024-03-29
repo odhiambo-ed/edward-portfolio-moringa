@@ -50,3 +50,8 @@ nav ul {
     display: flex;
     gap: .5rem;
 }
+
+.hamburger {
+    cursor: pointer;
+    display: none;
+}
