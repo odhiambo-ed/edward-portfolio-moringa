@@ -55,3 +55,9 @@ nav ul {
     cursor: pointer;
     display: none;
 }
+
+.hero {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
