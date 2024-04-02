@@ -459,7 +459,6 @@
   font-size: var(--body-medium-size);
   line-height: 150%;
   color: var(--neutral-offwhite);
-  white-space: pre-wrap;
 }
 .view-project2 {
   display: flex;
