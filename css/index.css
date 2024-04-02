@@ -622,6 +622,10 @@
   box-sizing: border-box;
   color: var(--neutral-black);
 }
+.button9:hover {
+  background-color: var(--neutral-offwhite);
+  cursor: pointer;
+}
 .frame-wrapper {
   flex: 1;
   display: flex;
