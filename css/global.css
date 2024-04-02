@@ -1,7 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+body {
+  margin: 0;
+  line-height: normal;
 }
 
 :root {
@@ -65,11 +64,4 @@
   --br-9xs: 4px;
   --br-xs: 12px;
   --br-base: 16px;
-}
-
-body {
-    line-height: normal;
-    font-family: var(--font-family);
-    background-color: var(--bg-color);
-    color: var(--primary-color);
 }
