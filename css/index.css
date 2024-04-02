@@ -633,3 +633,62 @@
   color: var(--neutral-offwhite);
   font-family: var(--misc-link);
 }
+.about-me,
+.frame-group {
+  position: absolute;
+  left: calc(50% - 612px);
+}
+.frame-group {
+  bottom: 0;
+  width: 1224px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-61xl) 0;
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  font-size: var(--heading-two-size);
+}
+.about-me {
+  top: 3446px;
+  font-size: var(--heading-one-size);
+  line-height: 90%;
+}
+.i-am-a {
+  align-self: stretch;
+  position: relative;
+  line-height: 140%;
+  font-weight: 500;
+}
+.home-inner1,
+.view-project5 {
+  position: absolute;
+  left: 628px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-family: var(--misc-link);
+}
+.home-inner1 {
+  top: 3446px;
+  width: 704px;
+}
+.view-project5 {
+  top: 3740px;
+  gap: var(--gap-9xs);
+  font-size: var(--misc-link-size);
+  color: var(--primary);
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: var(--neutral-black);
+  height: 4930px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-three-size);
+  color: var(--neutral-white);
+  font-family: var(--heading-one);
+}
