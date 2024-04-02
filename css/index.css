@@ -204,6 +204,10 @@
   align-items: center;
   justify-content: center;
 }
+.bxl-linkedinsvg-wrapper:hover {
+  background-color: var(--black);
+  cursor: pointer;
+}
 .action,
 .hero-content {
   display: flex;
