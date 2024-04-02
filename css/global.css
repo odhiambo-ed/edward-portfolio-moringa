@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --misc-link: Manrope;
+  --heading-one: "Bebas Neue";
+  --font-inter: Inter;
+  --text-regular-normal: Roboto;
+
+  /* font sizes */
+  --misc-link-size: 16px;
+  --body-medium-size: 18px;
+  --heading-three-size: 32px;
+  --heading-one-size: 101px;
+  --heading-two-size: 76px;
+  --misc-tag-size: 14px;
+  --heading-four-size: 24px;
+  --mobile-heading-two-size: 43px;
+  --mobile-misc-tag-size: 12px;
+  --mobile-heading-one-size: 57px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-gray-100: #222;
+  --color-gray-200: #1a1a1a;
+  --neutral-black: #0a0a0a;
+  --primary: #d3e97a;
+  --neutral-offwhite: #c7c7c7;
+  --neutral-white: #fff;
+  --neutral-dark-gray: #484848;
+  --black: #000;
+
+  /* Gaps */
+  --gap-9xs: 4px;
+  --gap-base: 16px;
+  --gap-5xl: 24px;
+  --gap-21xl: 40px;
+  --gap-5xs: 8px;
+  --gap-10xs: 3px;
+  --gap-61xl: 80px;
+  --gap-29xl: 48px;
+  --gap-13xl: 32px;
+  --gap-xs: 12px;
+  --gap-45xl: 64px;
+
+  /* Paddings */
+  --padding-61xl: 80px;
+  --padding-xl: 20px;
+  --padding-21xl: 40px;
+  --padding-xs: 12px;
+  --padding-base: 16px;
+  --padding-5xs: 8px;
+  --padding-7xs: 6px;
+  --padding-5xl: 24px;
+  --padding-41xl: 60px;
+  --padding-45xl: 64px;
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-81xl: 100px;
+  --br-9xs: 4px;
+  --br-xs: 12px;
+  --br-base: 16px;
+}
