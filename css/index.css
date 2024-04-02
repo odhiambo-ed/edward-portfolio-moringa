@@ -37,7 +37,7 @@
   font-size: var(--body-medium-size);
   font-family: var(--misc-link);
 }
-.button,
+/* .button,
 .button2 {
   border: 1px solid var(--black);
   display: flex;
@@ -58,7 +58,7 @@
 .navigation {
   flex-direction: row;
   align-items: center;
-}
+} */
 .column2 {
   display: none;
   justify-content: center;
@@ -158,6 +158,10 @@
     var(--padding-5xl);
   box-sizing: border-box;
   gap: var(--gap-xs);
+}
+.button8:hover {
+  background-color: var(--neutral-offwhite);
+  cursor: pointer;
 }
 .line,
 .title1 {
