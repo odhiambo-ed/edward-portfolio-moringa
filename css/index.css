@@ -305,6 +305,10 @@
   border-radius: var(--br-xs);
   background-color: var(--color-gray-200);
   overflow: hidden;
+  transition: transform 0.3s ease;
+}
+.card:hover {
+  transform: scale(1.1);
 }
 .project-card {
   position: relative;
