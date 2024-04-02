@@ -1,6 +1,10 @@
 body {
   margin: 0;
   line-height: normal;
+  scroll-snap-type: y mandatory; 
+  scroll-behavior: smooth; 
+  overflow-y: auto; 
+  height: 100vh;
 }
 
 :root {
