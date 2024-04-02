@@ -452,6 +452,10 @@
   height: 600px;
   overflow: hidden;
   flex-shrink: 0;
+  transition: transform 0.3s ease;
+}
+.project-image:hover {
+  transform: scale(1.1);
 }
 .description1 {
   align-self: stretch;
