@@ -37,28 +37,9 @@
   font-size: var(--body-medium-size);
   font-family: var(--misc-link);
 }
-/* .button,
-.button2 {
-  border: 1px solid var(--black);
-  display: flex;
-  justify-content: center;
-  padding: var(--padding-5xs) var(--padding-xl);
+.hamburger {
+  display: none;
 }
-.button {
-  flex-direction: row;
-  align-items: center;
-}
-.button2 {
-  background-color: var(--black);
-  color: var(--neutral-white);
-}
-.button2,
-.column,
-.column2,
-.navigation {
-  flex-direction: row;
-  align-items: center;
-} */
 .column2 {
   display: none;
   justify-content: center;
