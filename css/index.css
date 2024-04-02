@@ -110,6 +110,10 @@
   top: 126px;
   left: 732px;
   height: 700px;
+  transition: transform 0.3s ease;
+}
+.image:hover {
+  transform: scale(1.1);
 }
 .hi-i-am {
   margin: 0;
