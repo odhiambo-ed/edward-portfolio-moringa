@@ -1,3 +1,14 @@
+.home {
+  width: 100%;
+  position: relative;
+  background-color: var(--neutral-black);
+  height: 4930px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--heading-three-size);
+  color: var(--neutral-white);
+  font-family: var(--heading-one);
+}
 .link,
 .link1,
 .robert-garcia {
