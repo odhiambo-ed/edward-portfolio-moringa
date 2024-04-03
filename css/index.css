@@ -556,6 +556,13 @@
   justify-content: flex-start;
   gap: var(--gap-5xl);
 }
+.bxl-linkedinsvg-parent img {
+  transition: transform 0.3s ease;
+}
+.bxl-linkedinsvg-parent img:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
 .frame-div {
   align-self: stretch;
   flex-direction: column;
