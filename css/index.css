@@ -684,14 +684,8 @@
   font-size: var(--misc-link-size);
   color: var(--primary);
 }
-.home {
-  width: 100%;
-  position: relative;
-  background-color: var(--neutral-black);
-  height: 4930px;
-  overflow: hidden;
-  text-align: left;
-  font-size: var(--heading-three-size);
-  color: var(--neutral-white);
-  font-family: var(--heading-one);
+.list2 {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
 }
