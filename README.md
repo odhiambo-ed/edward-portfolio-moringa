@@ -61,3 +61,7 @@ Give a ⭐️ if you like this project!
 - Hat tip to anyone whose code was used
 - Special thanks to [Portfolio for Developers by Suman Kunwar](https://www.figma.com/community/file/1311309815091555685/portfolio-for-developers) for the amazing Figma design that served as the foundation for this project. Your creativity and attention to detail greatly contributed to its development. I am grateful for your talent and generosity in sharing your work with the community.
 
+## 📝 License
+
+This project is [MIT](https://github.com/white3d/GitHub-User-Content/blob/main/LICENSE) licensed.
+
