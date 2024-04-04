@@ -6,11 +6,11 @@
 
 ## Description
 
-> This is my portfolio build on html and css. It is a platform where I showcase my projects and expertise. A recriuter or any person who would wish to hire me or need my sercives would just get to the platform, find my contacts and reach out.
+> Welcome to my portfolio crafted with HTML and CSS! This platform serves as a showcase of my projects and expertise. Whether you're a recruiter or someone seeking my services, you can easily navigate to find my contact information and reach out. Explore my work and let's connect to bring your ideas to life!
 
 ## Live Demo Link
 
-[Live Link](https://code-chat-ten.vercel.app)
+[Live Link]()
 
 ## Built With
 
@@ -59,4 +59,5 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
+- Special thanks to [Portfolio for Developers by Suman Kunwar](https://www.figma.com/community/file/1311309815091555685/portfolio-for-developers) for the amazing Figma design that served as the foundation for this project. Your creativity and attention to detail greatly contributed to its development. I am grateful for your talent and generosity in sharing your work with the community.
 
